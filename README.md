@@ -1,6 +1,6 @@
 # 📝 Shopping List
 
-<img align="center" width="500" src="shopping-list.gif" style="margin-bottom: 20px;">
+<img align="center" width="350" src="shopping-list.gif" style="margin-bottom: 20px;">
 
 ## 📃 Description
 
