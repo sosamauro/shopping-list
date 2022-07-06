@@ -14,6 +14,6 @@ This app stores data locally so you can close the browser and your items will be
 - CSS3
 - JavaScript
 
-##🏻‍♂️✌🏻 Enjoy it!
+## 🙌🏻 Enjoy it!
 
 Made by [Mauro Sosa](https://www.linkedin.com/in/mauro-sosa/)
