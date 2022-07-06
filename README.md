@@ -2,6 +2,8 @@
 
 <img align="center" width="350" src="shopping-list.gif" style="margin-bottom: 20px;">
 
+[Shopping List App](https://sosamauro.github.io/shopping-list/)
+
 ## 📃 Description
 
 Create your own grocery list. Add, edit and delete items.
